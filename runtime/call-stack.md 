@@ -1,0 +1,10 @@
+The Call Stack is the data structure used by the JavaScript engine to control the execution of synchronous functions.
+
+## How it works
+- LIFO (Last In, First Out) structure
+- Only one function is executed at a time
+- One function must finish before the next one can start
+
+## Implications
+- Thread blocking during long execution
+- Stack overflow in deep recursive calls
