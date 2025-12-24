@@ -1,2 +1,2 @@
 # js-fundamentals-deep-dive
-I will share what i have
+Esse repositório é para compartilhar o que venho estudando sobre fundamentos do javaScript
